@@ -8,3 +8,4 @@
 
 <div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=mycherish"/></div>
 
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=mycherish&theme=xcode"/></div>
