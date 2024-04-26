@@ -4,4 +4,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycherish)](https://github.com/anuraghazra/github-readme-stats)
 
-<imgsrc="https://github-profile-trophy.vercel.app/?username=mycherish"/>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mycherish"/></div>
+
