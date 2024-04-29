@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to PHP/Golang.
 - 📫 How to reach me: weidongxu2@gmail.com
-- 😄 Read more about my CSDN: 
+- 😄 Read more about my blog: https://mycherish.github.io
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:
 
