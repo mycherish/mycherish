@@ -1,20 +1,41 @@
+## Hello GitHub Fans 👋
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:weidongxu2@gmail.com)
+<a href="https://twitter.com/CqwezxcX" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+---
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/mycherish/imgCloud/img/202404300124660.gif" />
 
-### Hi there 👋,I'm TryLucky.
+### I'm TryLucky
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to PHP/Golang.
-- 📫 How to reach me: weidongxu2@gmail.com
-- 😄 Read more about my blog: https://mycherish.github.io
+- An Undergraduate In Mathematics And Applied Mathematics. & Open Source enthusiast.
+- 🌱 Currently working in Beijing, China.
+- 💬 Ask me about PHP, Golang and my projects on [weidongxu2@gmail.com](mailto:weidongxu2@gmail.com)
+- ⭐ 
+- ⚡ Fun fact: Data Analysis📊
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:
+### 🛠 技术栈 | Tech Stack
 
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mycherish&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 开源项目
+-
 
-<!-- 统计卡片start -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mycherish&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycherish&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-<!-- 统计卡片end -->
+### 关于我
+- [我的博客](https://mycherish.github.io/)
+- [CSDN](https://blog.csdn.net/qq_41519254?spm=1000.2115.3001.5343)
+- [LearnKu](https://learnku.com/blog/yinan)
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
+⭐️ From [mycherish](https://github.com/mycherish)
