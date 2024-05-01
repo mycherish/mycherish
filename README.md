@@ -3,6 +3,7 @@
 <a href="https://twitter.com/CqwezxcX" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yinanGT)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/determined_xw/)
+<a href="https://open.spotify.com/user/wsiehiahlru3sh54frobq8pzp" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 ---
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/mycherish/imgCloud/img/202404300124660.gif" />
 
@@ -11,7 +12,6 @@
 - An Undergraduate In Mathematics And Applied Mathematics. & Open Source enthusiast.
 - 🌱 Currently working in Beijing, China.
 - 💬 Ask me about PHP, Golang and my projects on [weidongxu2@gmail.com](mailto:weidongxu2@gmail.com)
-- ⭐ 
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
