@@ -1,6 +1,7 @@
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:weidongxu2@gmail.com)
 <a href="https://twitter.com/CqwezxcX" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)
 ---
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/mycherish/imgCloud/img/202404300124660.gif" />
 
@@ -14,22 +15,23 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 💻 &#160;[![GitHub release](https://img.shields.io/badge/PHP-CFCFCF?logo=php)](https://img.shields.io/badge/PHP-CFCFCF?logo=php)
+[![GitHub release](https://img.shields.io/badge/Nginx-515151?logo=nginx)](https://img.shields.io/badge/Nginx-515151?logo=nginx)
+![Linux](https://img.shields.io/badge/-Linux-515151?style=flat&logo=Linux)
+[![GitHub release](https://img.shields.io/badge/Docker-515151?logo=docker)](https://img.shields.io/badge/Docker-515151)
 
-### 开源项目
--
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-515151?style=flat&logo=HTML5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-CFCFCF?style=flat&logo=bootstrap&logoColor=563D7C)
+![jQuery](https://img.shields.io/badge/-jQuery.js-515151?style=flat&logo=jQuery)
+
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-CFCFCF?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-515151?style=flat&logo=mongodb)
+[![GitHub release](https://img.shields.io/badge/Redis-CFCFCF?logo=redis)](https://img.shields.io/badge/Redis-CFCFCF?logo=redis)
+[![GitHub release](https://img.shields.io/badge/Elasticsearch-515151?logo=Elasticsearch)](https://img.shields.io/badge/Elasticsearch-515151?logo=Elasticsearch)
+
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-515151?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-515151?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-515151?style=flat&logo=markdown)
 
 ### 关于我
 - [我的博客](https://mycherish.github.io/)
